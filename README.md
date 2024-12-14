@@ -1,4 +1,4 @@
-Here’s a general README template for your Password Generator project. It’s structured for a GitHub repository.
+
 
 ---
 
